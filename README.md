@@ -1,4 +1,4 @@
-1. Introduction:-
+## Introduction:-
 People often in there life come across a situation where they want to sell a product(old or new) but don’t get buyers or the situation may be the other way around where they want to buy the product at a lower price but doesn’t get the seller.
 So in order to deal with this situation, we have OLX and Quickr in India where the person can sell or buy products provided the product is available at the right price.
 Mercari is a Japanese US-based online marketplace where the person can sell or buy almost anything online, just like we have OLX and Quickr in India.
