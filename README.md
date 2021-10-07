@@ -8,3 +8,7 @@ Mercari hosted a competition on Kaggle by the name “Mercari Price Suggestion C
 So you would get the code details above but if you want to see how I approached this problem than you can read my blog:- https://medium.com/@rahulBisht40/mercari-price-suggestion-problem-e5e6bdf1f1fd
 
 
+
+
+https://user-images.githubusercontent.com/88244693/136424294-999640f0-de0a-4404-a744-14b3d82899ba.mp4
+
