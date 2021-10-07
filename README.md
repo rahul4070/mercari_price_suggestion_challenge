@@ -6,3 +6,6 @@ But the question that struck our mind is: who decides the right price ??
 Mercari hosted a competition on Kaggle by the name “Mercari Price Suggestion Challenge” where given some product details(other than images) they want us to come up with the right price predictions. It would also give us a basic intuition provided how the price prediction takes place in sites like OLX and Quickr
 
 So you would get the code details above but if you want to see how I approached this problem than you can read my blog:- https://medium.com/@rahulBisht40/mercari-price-suggestion-problem-e5e6bdf1f1fd
+
+
+https://youtu.be/G9LmB1UujPs
